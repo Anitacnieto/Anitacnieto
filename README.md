@@ -1,18 +1,58 @@
-# 👋 Hola, soy Ana  
+<!-- Encabezado con gif o imagen cute -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="250"/>
+</p>
 
-💻 Estudiante de programación y entusiasta del desarrollo web.  
-🚀 Me gusta aprender y compartir proyectos en **Python**, **JavaScript** y más.  
+<h1 align="center">✨ Hola, soy Ana ✨</h1>
+<p align="center">🌸 Bienvenida/o a mi rinconcito en GitHub 🌸</p>
 
-### 🛠 Tecnologías que uso:
-- Python | Java | HTML, CSS, JavaScript | Git & GitHub  
+---
 
-![GitHub followers](https://img.shields.io/github/followers/Anitacnieto?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Anitacnieto?style=social)
+### 🌷 Sobre mí
+💖 Estudiante de programación  
+🎀 Amante de lo cute, el diseño y la tecnología  
+📚 Actualmente aprendiendo **Python, Java y Desarrollo Web**  
+🌱 Mi meta: crecer como desarrolladora y crear proyectos hermosos ✨  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anitacnieto&show_icons=true&theme=radical)
+### 💻 Tecnologías que uso
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F48FB1?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🌸 Proyectos destacados
+🌟 [Python Final](https://github.com/Anitacnieto/Python---final) – Proyecto de práctica en Python.  
+🌟 [Hola Mundo](https://github.com/Anitacnieto/Hola-mundo) – Mi primer pasito en GitHub.  
+
+---
+
+### 📊 Mis estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anitacnieto&show_icons=true&theme=rose_pine&title_color=ff91a4&icon_color=ff91a4&text_color=fadadd&bg_color=2b213a" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anitacnieto&layout=compact&theme=rose_pine&title_color=ff91a4&text_color=fadadd&bg_color=2b213a" alt="langs" />
+</p>
+
+---
+
+### 🌸 Conectemos
+💌 Podés encontrarme aquí en GitHub o en otros proyectos donde siempre estoy aprendiendo y creando cosas nuevas.  
+✨ Gracias por visitar mi perfil ✨  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs7KViF5rR6VR0cQ/giphy.gif" width="200"/>
+</p>
+
 
 
 
