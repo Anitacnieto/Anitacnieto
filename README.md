@@ -1,10 +1,4 @@
 <!-- Encabezado con gif o imagen cute -->
-<p align="center">
-  
-</p>
-
-<h1 align="center">✨ Hola, soy Ana ✨</h1>
-<p align="center">🌸 Bienvenida/o a mi rinconcito en GitHub 🌸</p>
 
 ---
 
