@@ -6,6 +6,8 @@
 ### 🛠 Tecnologías que uso:
 - Python | Java | HTML, CSS, JavaScript | Git & GitHub  
 
+![GitHub followers](https://img.shields.io/github/followers/Anitacnieto?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Anitacnieto?style=social)
 
 
 
