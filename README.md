@@ -1,6 +1,6 @@
 <!-- Encabezado con gif o imagen cute -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="250"/>
+  
 </p>
 
 <h1 align="center">✨ Hola, soy Ana ✨</h1>
