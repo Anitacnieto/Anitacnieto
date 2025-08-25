@@ -9,6 +9,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/Anitacnieto?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Anitacnieto?style=social)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anitacnieto&show_icons=true&theme=radical)
+
+
 
 
 <!--
