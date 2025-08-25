@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Ana  
+
+💻 Estudiante de programación y entusiasta del desarrollo web.  
+🚀 Me gusta aprender y compartir proyectos en **Python**, **JavaScript** y más.  
+
+### 🛠 Tecnologías que uso:
+- Python | Java | HTML, CSS, JavaScript | Git & GitHub  
+
+
+
 
 <!--
 **Anitacnieto/Anitacnieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
