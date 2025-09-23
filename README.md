@@ -6,7 +6,7 @@
 💖 Estudiante de programación  
 🎀 Amante de lo cute, el diseño y la tecnología  
 📚 Actualmente aprendiendo **Python, Java y Desarrollo Web**  
-🌱 Mi meta: crecer como desarrolladora y crear proyectos hermosos ✨  
+🌱 Mi meta: crecer como desarrolladora y crear proyectos ✨  
 
 ---
 
@@ -24,7 +24,6 @@
 
 ### 🌸 Proyectos destacados
 🌟 [Python Final](https://github.com/Anitacnieto/Python---final) – Proyecto de práctica en Python.  
-🌟 [Hola Mundo](https://github.com/Anitacnieto/Hola-mundo) – Mi primer pasito en GitHub.  
 
 ---
 
